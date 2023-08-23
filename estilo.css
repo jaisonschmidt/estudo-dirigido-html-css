@@ -3,6 +3,12 @@ body {
     margin: 0;
 }
 
+article {
+    border-bottom: 1px solid #000;
+    margin-bottom: 1.5em;
+    padding-bottom: 1.5em;
+}
+
 /* classe utilitaria */
 .w-100 {
     width: 100%;
