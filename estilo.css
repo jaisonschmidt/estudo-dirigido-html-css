@@ -24,3 +24,10 @@
     text-decoration: none;
     width: 200px;
 }
+
+.footer {
+    background-color: #13131c;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
